@@ -1,8 +1,7 @@
 <h1 align='center'>Brian here 👋</h1>
 
-## I'm a Data Scientist and I exceedingly enjoy solving problems. 🔥
+<h2 align='center'>I'm a Data Scientist and I exceedingly enjoy solving problems!</h2>
 
-<br>
 
 ### Most Notable Achievement 🏆
 >Developed a convoluted program that automated the daily classification of M-Pesa Paybill transactions. 
