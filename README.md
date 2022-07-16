@@ -8,7 +8,7 @@
 Achieved over **90% success** and reduced time taken by **6 hours**.
 
 ### What I’m currently working on 🔭
->Interact with my Tableau [Viz](https://public.tableau.com/app/profile/briank/viz/Wildlifer/TimeDash) 
+>Interact with my Tableau [Dashboard](https://public.tableau.com/app/profile/briank/viz/Wildlifer/TimeDash) 
 
 <br>
 
