@@ -1,15 +1,15 @@
 <h1 align='center'>Brian here 👋</h1>
 
 
-### I'm a **Data Scientist** and I exceedingly enjoy solving problems. 🔥
+### I'm a Data Scientist and I exceedingly enjoy solving problems. 🔥
 
 
 ### Most Notable Achievement 🏆
->#### Developed a convoluted program that automated the daily classification of M-Pesa Paybill transactions. 
+>Developed a convoluted program that automated the daily classification of M-Pesa Paybill transactions. 
 Achieved over **90% success** and reduced time taken by **6 hours**.
 
 ### What I’m currently working on 🔭
->#### Interact with my Tableau [Viz](https://public.tableau.com/app/profile/briank/viz/Wildlifer/TimeDash) 
+>Interact with my Tableau [Viz](https://public.tableau.com/app/profile/briank/viz/Wildlifer/TimeDash) 
 
 <br>
 
