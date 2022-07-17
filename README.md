@@ -2,7 +2,7 @@
 
 <h2 align='center'>I'm a Data Scientist, I exceedingly enjoy solving problems</h2>
 
-<img src = 'Brian Kiume.gif'></img>
+<img src = 'Brian Kiume.jpg'></img>
 
 ### Most Notable Achievement 🏆
 >Developed a convoluted program that automated the daily classification of M-Pesa Paybill transactions. 
