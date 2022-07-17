@@ -1,7 +1,8 @@
-<h1 align='center'>Brian here 👋</h1>
+<h1 align='center'>Hi There 👋</h1>
 
 <h2 align='center'>I'm a Data Scientist, I exceedingly enjoy solving problems</h2>
 
+![brian_kiume](Brian Kiume.gif)
 
 ### Most Notable Achievement 🏆
 >Developed a convoluted program that automated the daily classification of M-Pesa Paybill transactions. 
