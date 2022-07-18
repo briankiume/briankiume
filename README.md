@@ -16,9 +16,11 @@ Achieved over **90% success** and reduced time taken by **6 hours**.
 #### ⚡ Get in touch  
 
 ----
+
 <style type="text/css">
     img {margin: 15px}
 </style>
+
 <a href="mailto:codifybrian@gmail.com" target="_blank">
 <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F11%2FGmail-Logo.png&f=1&nofb=1' width = 5%></img>
 </a>
