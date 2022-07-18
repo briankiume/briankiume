@@ -14,7 +14,7 @@ Achieved over **90% success** and reduced time taken by **6 hours**.
 
 <br>
 
-#### ⚡ Get in touch  
+### ⚡ Get in touch  
 
 ----
 
