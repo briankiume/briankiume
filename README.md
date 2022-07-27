@@ -1,7 +1,7 @@
 
 <h1 align='center'>Welcome 🙋🏽‍♂️</h1>
 
-<h2 align='center'>I'm a Data Scientist, I enjoy solving problems ✔️</h2>
+<h2 align='center'>I'm a Data Scientist; I solve problems ✔️</h2>
 
 [//]: # (<img src = 'Brian Kiume.jpg' width=80% style ='vertical-align-center'></img>)
 
