@@ -13,7 +13,7 @@ Achieved over **90% success** and reduced time taken by **6 hours**.
 <a href="https://public.tableau.com/app/profile/briank/viz/KEElections/Dash" target="_blank"><img src="Images\elections.png"></a>
 <br>
 >Tap to interact with the Dashboard
-
+<br>
 ### ⚡ Get in touch  
 
 ----
