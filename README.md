@@ -7,7 +7,7 @@
 
 ### Most Notable Achievement 🏆
 >Developed a convoluted program that automated the daily classification of M-Pesa Paybill transactions. 
-Achieved over `90% success` and reduced time taken by `6 hours`.
+Achieved over **90% success** and reduced time taken by **6 hours**.
 
 ### What I’m currently working on 🔭
 <a href="https://public.tableau.com/app/profile/briank/viz/KEElections/Dash" target="_blank"><img src="Images\elections.png"></a>
