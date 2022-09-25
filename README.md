@@ -14,7 +14,6 @@ Achieved over **90% success** and reduced time taken by **6 hours**.
 <br>
 >Tap to interact with the Dashboard
 <br>
-> 
 
 ### ⚡ Get in touch  
 
