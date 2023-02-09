@@ -10,7 +10,7 @@
 Achieved over **90% success** and reduced time taken by **6 hours**.
 
 ### What I’m currently working on 🔭
-<a href="https://public.tableau.com/app/profile/briank/viz/Superstore_16640095221670/AllDash" target="_blank"><img src="Images\Superstore.png"></a>
+<a href="https://public.tableau.com/app/profile/briank/viz/KEElections/Dash" target="_blank"><img src="Images\elections.png"></a>
 <br>
 >Tap to interact with the Dashboard
 <br>
